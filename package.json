@@ -1,0 +1,24 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "main": "main.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "node main.js",
+    "serve": "nodemon main.js",
+    "start": "pm2 start main.js",
+    "stop": "pm2 stop main.js"
+  },
+  "dependencies": {
+    "config": "^3.2.6",
+    "connect-history-api-fallback": "^1.6.0",
+    "koa": "^2.11.0",
+    "koa-body": "^4.1.1",
+    "koa-router": "^8.0.8",
+    "koa-session": "^5.13.1",
+    "koa-static": "^5.0.0",
+    "koa2-cors": "^2.0.6",
+    "mongodb": "^3.5.3",
+    "mongoose": "^5.9.2"
+  }
+}

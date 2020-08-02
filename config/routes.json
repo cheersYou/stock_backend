@@ -1,0 +1,22 @@
+{
+  "user": {
+    "prefix": "/",
+    "disabled": false
+  },
+  "fund": {
+    "prefix": "/",
+    "disabled": false
+  },
+  "stock": {
+    "prefix": "/",
+    "disabled": false
+  },
+  "bank": {
+    "prefix": "/",
+    "disabled": false
+  },
+  "resource": {
+    "prefix": "/",
+    "disabled": false
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "DEFAULT_MONGO_URL": "mongodb://localhost:27017",
+  "USER_MONGO_URL": "mongodb://localhost:27017/user",
+  "FUND_MONGO_URL": "mongodb://localhost:27017/fund",
+  "STOCK_MONGO_URL": "mongodb://localhost:27017/SelfStock",
+  "STOCK50_MONGO_URL": "mongodb://localhost:27017/Stock50",
+  "STOCK300_MONGO_URL": "mongodb://localhost:27017/Stock300",
+  "STOCKHK_MONGO_URL": "mongodb://localhost:27017/StockHK",
+  "STOCKUS_MONGO_URL": "mongodb://localhost:27017/StockUS",
+  "STOCKUSCHINA_MONGO_URL": "mongodb://localhost:27017/StockUSChina",
+  "STOCKMAX_MONGO_URL": "mongodb://localhost:27017/StockMAX",
+  "INDUSTRY_MONGO_URL": "mongodb://localhost:27017/IndustryBank",
+  "CONCEPT_MONGO_URL": "mongodb://localhost:27017/ConceptBank",
+  "PORT": 3000,
+  "STATICPATH": "./public"
+}
